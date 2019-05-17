@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48100" started-at="2019-05-08T14:58:05Z" finished-at="2019-05-08T14:58:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48100" started-at="2019-05-08T14:58:05Z" finished-at="2019-05-08T14:58:54Z">
+      <class name="qa.com.test.locationtestZoopla">
+        <test-method status="PASS" signature="propertyList()[pri:0, instance:qa.com.test.locationtestZoopla@2a5ca609]" name="propertyList" is-config="true" duration-ms="21956" started-at="2019-05-08T20:28:05Z" finished-at="2019-05-08T20:28:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyList -->
+        <test-method status="PASS" signature="sortPrice()[pri:0, instance:qa.com.test.locationtestZoopla@2a5ca609]" name="sortPrice" duration-ms="619" started-at="2019-05-08T20:28:27Z" finished-at="2019-05-08T20:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortPrice -->
+        <test-method status="PASS" signature="propertyList()[pri:0, instance:qa.com.test.locationtestZoopla@2a5ca609]" name="propertyList" is-config="true" duration-ms="20475" started-at="2019-05-08T20:28:28Z" finished-at="2019-05-08T20:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyList -->
+        <test-method status="PASS" signature="clickOn5thProperty()[pri:0, instance:qa.com.test.locationtestZoopla@2a5ca609]" name="clickOn5thProperty" duration-ms="5029" started-at="2019-05-08T20:28:49Z" finished-at="2019-05-08T20:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOn5thProperty -->
+      </class> <!-- qa.com.test.locationtestZoopla -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
